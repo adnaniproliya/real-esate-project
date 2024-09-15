@@ -1,10 +1,10 @@
 # Real Estate Project
 
-This project is a frontend for a real estate website, developed using React.
+This project is a frontend for a real estate website, developed using React.js.
 
 ## Technologies Used
 
-- **React**: For building the user interface.
+- **React.js**: For building the user interface.
 - **HTML**: For structuring the web pages.
 - **CSS**: For styling and layout.
 
@@ -12,11 +12,11 @@ This project is a frontend for a real estate website, developed using React.
 
 - **Responsive Design**: The website adapts to different screen sizes and devices.
 - **Interactive UI**: A user-friendly interface with interactive elements.
-- **Navigation**: Easy navigation between different sections of the site.
+- **Navigation**: Smooth navigation between different sections of the site.
 
 ## Overview
 
-This project demonstrates how to create a real estate website using modern web technologies. The focus is on providing a clean and responsive user experience with React, enhanced by HTML for structure and CSS for styling.
+This project demonstrates how to create a real estate website using modern web technologies. It focuses on providing a clean and responsive user experience with React.js, enhanced by HTML for structure and CSS for styling.
 
 ## Styling
 
@@ -25,5 +25,12 @@ This project demonstrates how to create a real estate website using modern web t
 
 ## Acknowledgments
 
-- Created to practice React and frontend development skills.
+- Created to practice React.js and frontend development skills.
 - Inspired by real estate websites to showcase practical application of React components and styling.
+
+## Contact Information
+
+- **LinkedIn:** [Connect with me](https://linkedin.com/in/mohammedadnan-iproliya)
+- **Email:** [adnaniproliya01@gmail.com](mailto:adnaniproliya01@gmail.com)
+
+Feel free to reach out if you have any questions or would like to discuss opportunities or collaborations.
